@@ -2,11 +2,17 @@ import Box_Office from '../assets/Projects_Screenshots/Box_Office.jpg';
 import Chat_app from '../assets/Projects_Screenshots/Chat_app.jpg';
 import Keeper_app from '../assets/Projects_Screenshots/Keeper_app.jpg';
 import Tic_tac_toe from '../assets/Projects_Screenshots/Tic_tac_toe.jpg';
-import TinDog from '../assets/Projects_Screenshots/TinDog.jpg';
+import memories_blog from '../assets/Projects_Screenshots/memories_blog.jpg'
 import ToDo_List from '../assets/Projects_Screenshots/ToDo_List.png';
 
 
 const myProjects = [
+    {
+        title: 'Memories Blog',
+        imageUrl: memories_blog,
+        githubLink: 'https://github.com/abhisheksharma1310/memories_blog',
+        demoLink: 'https://famous-nasturtium-884aa6.netlify.app/'
+    },
     {
         title: 'Chat app',
         imageUrl: Chat_app,
@@ -30,12 +36,6 @@ const myProjects = [
         imageUrl: Tic_tac_toe,
         githubLink: 'https://github.com/abhisheksharma1310/tictactoe-game-react-app',
         demoLink: 'https://abh-tictactoegame-react.surge.sh/'
-    },
-    {
-        title: 'TinDog website',
-        imageUrl: TinDog,
-        githubLink: 'https://github.com/abhisheksharma1310/tinDog-web',
-        demoLink: 'https://abhisheksharma1310.github.io/tinDog-web/'
     },
     {
         title: 'To-Do List app',
