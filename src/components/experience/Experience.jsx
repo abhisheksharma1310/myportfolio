@@ -1,7 +1,7 @@
 import React from 'react'
 import './experience.css';
 import Skills from './Skills';
-import myExperience from '../../data/Experience';
+import myExperience from '../../mydata/Experience';
 
 const Experience = () => {
 

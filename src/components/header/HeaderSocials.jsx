@@ -1,7 +1,7 @@
 import React from 'react';
 import {BsLinkedin} from 'react-icons/bs';
 import {FaGithub} from 'react-icons/fa';
-import contactMe from '../../data/contact';
+import contactMe from '../../mydata/contact';
 
 const HeaderSocials = () => {
   return (

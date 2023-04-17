@@ -3,7 +3,10 @@ import './contact.css';
 import {MdOutlineEmail} from 'react-icons/md';
 import {BsWhatsapp} from 'react-icons/bs';
 import emailjs from 'emailjs-com';
-import contactMe from '../../data/contact';
+import contactMe from '../../mydata/contact';
+import {eData} from '../../mydata/emailjs';
+// import dotenv from 'dotenv';
+// dotenv.config();
 
 const Contact = () => {
 
@@ -13,7 +16,11 @@ const Contact = () => {
 
     e.preventDefault();
 
-    emailjs.sendForm('service_85uibnk', 'template_1lbomd4', form.current, 'zA1JGWUqh79TFaDA2')
+    const serviceId = eData.serviceId;
+    const templateId = eData.templateId;
+    const publicKey = eData.publicKey;
+
+    emailjs.sendForm(serviceId, templateId, form.current, publicKey)
     .then((result) => {
       alert("Message Sent. I will get in touch soon. Thank you!");
     }, (error) => {

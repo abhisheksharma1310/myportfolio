@@ -3,8 +3,8 @@ import './about.css';
 import ME from '../../assets/me-about.png';
 import { FaAward } from 'react-icons/fa';
 import { AiOutlineProject } from 'react-icons/ai';
-import aboutMe from '../../data/about';
-import myProjects from '../../data/project';
+import aboutMe from '../../mydata/about';
+import myProjects from '../../mydata/project';
 
 const About = () => {
 
