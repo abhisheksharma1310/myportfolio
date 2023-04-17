@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.a5812621.css",
-    "main.js": "/myportfolio/static/js/main.f07d6dee.js",
+    "main.css": "/myportfolio/static/css/main.459b966f.css",
+    "main.js": "/myportfolio/static/js/main.6a936da8.js",
     "static/media/me.png": "/myportfolio/static/media/me.413bc2e13721b2110b12.png",
     "static/media/me-about.png": "/myportfolio/static/media/me-about.1cc5cb3f1b0a62727814.png",
     "static/media/Keeper_app.jpg": "/myportfolio/static/media/Keeper_app.33f35a28fcfb37a89e1b.jpg",
-    "static/media/TinDog.jpg": "/myportfolio/static/media/TinDog.00fd5b6d927a89924d90.jpg",
+    "static/media/memories_blog.jpg": "/myportfolio/static/media/memories_blog.0d299442619e790e9bd6.jpg",
     "static/media/Tic_tac_toe.jpg": "/myportfolio/static/media/Tic_tac_toe.810f351a94a0a52793dc.jpg",
     "static/media/Box_Office.jpg": "/myportfolio/static/media/Box_Office.01ce2498b0e1b8655301.jpg",
     "static/media/Chat_app.jpg": "/myportfolio/static/media/Chat_app.278c14eae44d1468bbd1.jpg",
-    "static/media/Abhishek_Sharma_Web_Developer_CV.pdf": "/myportfolio/static/media/Abhishek_Sharma_Web_Developer_CV.be192b8051f637ba972d.pdf",
+    "static/media/Abhishek_Sharma_Web_Developer_CV.pdf": "/myportfolio/static/media/Abhishek_Sharma_Web_Developer_CV.5ca8ceb1bcc6fd33cf2c.pdf",
     "static/media/ToDo_List.png": "/myportfolio/static/media/ToDo_List.2e7aa294f7f9d09dd21e.png",
     "index.html": "/myportfolio/index.html",
-    "main.a5812621.css.map": "/myportfolio/static/css/main.a5812621.css.map",
-    "main.f07d6dee.js.map": "/myportfolio/static/js/main.f07d6dee.js.map"
+    "main.459b966f.css.map": "/myportfolio/static/css/main.459b966f.css.map",
+    "main.6a936da8.js.map": "/myportfolio/static/js/main.6a936da8.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5812621.css",
-    "static/js/main.f07d6dee.js"
+    "static/css/main.459b966f.css",
+    "static/js/main.6a936da8.js"
   ]
 }
