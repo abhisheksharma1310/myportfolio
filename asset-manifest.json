@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.459b966f.css",
-    "main.js": "/myportfolio/static/js/main.0ee35a10.js",
+    "main.js": "/myportfolio/static/js/main.2b1a9971.js",
     "static/media/me.png": "/myportfolio/static/media/me.413bc2e13721b2110b12.png",
     "static/media/me-about.png": "/myportfolio/static/media/me-about.1cc5cb3f1b0a62727814.png",
     "static/media/memories_blog.jpg": "/myportfolio/static/media/memories_blog.b9825b21f9d607610d35.jpg",
@@ -9,14 +9,14 @@
     "static/media/Tic_tac_toe.jpg": "/myportfolio/static/media/Tic_tac_toe.810f351a94a0a52793dc.jpg",
     "static/media/Box_Office.jpg": "/myportfolio/static/media/Box_Office.01ce2498b0e1b8655301.jpg",
     "static/media/Chat_app.jpg": "/myportfolio/static/media/Chat_app.278c14eae44d1468bbd1.jpg",
-    "static/media/Abhishek_Sharma_Web_Developer_CV.pdf": "/myportfolio/static/media/Abhishek_Sharma_Web_Developer_CV.b921e938982cf5c92754.pdf",
+    "static/media/Abhishek_Sharma_Web_Developer_CV.pdf": "/myportfolio/static/media/Abhishek_Sharma_Web_Developer_CV.e5f57a57450598c1bc66.pdf",
     "static/media/ToDo_List.png": "/myportfolio/static/media/ToDo_List.2e7aa294f7f9d09dd21e.png",
     "index.html": "/myportfolio/index.html",
     "main.459b966f.css.map": "/myportfolio/static/css/main.459b966f.css.map",
-    "main.0ee35a10.js.map": "/myportfolio/static/js/main.0ee35a10.js.map"
+    "main.2b1a9971.js.map": "/myportfolio/static/js/main.2b1a9971.js.map"
   },
   "entrypoints": [
     "static/css/main.459b966f.css",
-    "static/js/main.0ee35a10.js"
+    "static/js/main.2b1a9971.js"
   ]
 }
