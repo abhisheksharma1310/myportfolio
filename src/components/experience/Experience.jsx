@@ -16,14 +16,14 @@ const Experience = () => {
                 <div className='experience__frontend'>
                     <h3>Frontend Development</h3>
                     <div className='experience__content'>
-                        {frontEndskills.map((skill) => <Skills skillName={skill.name} level={skill.level} />)}
+                        {frontEndskills.map((skill) => <Skills key={skill.name} skillName={skill.name} level={skill.level} />)}
                     </div>
                 </div>
 
                 <div className='experience__backend'>
                     <h3>Backend Development</h3>
                     <div className='experience__content'>
-                        {backEndSkills.map((skill) => <Skills skillName={skill.name} level={skill.level} />)}
+                        {backEndSkills.map((skill) => <Skills key={skill.name} skillName={skill.name} level={skill.level} />)}
                     </div>
                 </div>
             </div>

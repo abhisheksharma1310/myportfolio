@@ -6,8 +6,8 @@ import contactMe from '../../mydata/contact';
 const HeaderSocials = () => {
   return (
     <div className='header__socials'>
-        <a href={contactMe.linkedin} target='_blank' rel='noreferrer'><BsLinkedin/></a>
-        <a href={contactMe.github} target='_blank' rel='noreferrer'><FaGithub/></a>
+        <a href={contactMe.linkedin} target='_blank' rel='noreferrer' title='Linkedin'><BsLinkedin/></a>
+        <a href={contactMe.github} target='_blank' rel='noreferrer' title='GitHub'><FaGithub/></a>
     </div>
   )
 }

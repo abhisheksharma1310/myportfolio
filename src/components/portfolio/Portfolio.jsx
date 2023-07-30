@@ -11,7 +11,7 @@ const Portfolio = () => {
 
       <div className='container portfolio__container'>
         {myProjects.map((project) => 
-        <PortfolioItem title={project.title} imageUrl={project.imageUrl} githubLink={project.githubLink} demoLink={project.demoLink} />)}
+        <PortfolioItem key={project.title} title={project.title} imageUrl={project.imageUrl} githubLink={project.githubLink} demoLink={project.demoLink} />)}
       </div>
     </section>
   )
