@@ -14,14 +14,14 @@ const Experience = () => {
 
             <div className='container experience__container'>
                 <div className='experience__frontend'>
-                    <h3>Frontend Development</h3>
+                    <h3>Frontend Technologies</h3>
                     <div className='experience__content'>
                         {frontEndskills.map((skill) => <Skills key={skill.name} skillName={skill.name} level={skill.level} />)}
                     </div>
                 </div>
 
                 <div className='experience__backend'>
-                    <h3>Backend Development</h3>
+                    <h3>Other Technologies</h3>
                     <div className='experience__content'>
                         {backEndSkills.map((skill) => <Skills key={skill.name} skillName={skill.name} level={skill.level} />)}
                     </div>
