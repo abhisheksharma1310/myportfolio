@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.eb9bf345.css",
-    "main.js": "/myportfolio/static/js/main.70c1ea1b.js",
+    "main.js": "/myportfolio/static/js/main.be28c5b1.js",
     "static/media/me.png": "/myportfolio/static/media/me.413bc2e13721b2110b12.png",
     "static/media/markdown_preview.jpg": "/myportfolio/static/media/markdown_preview.efacb4854facd650eb77.jpg",
     "static/media/restaurant.jpg": "/myportfolio/static/media/restaurant.a6971e9c2aae8a2e9330.jpg",
@@ -15,14 +15,13 @@
     "static/media/Tic_tac_toe.jpg": "/myportfolio/static/media/Tic_tac_toe.810f351a94a0a52793dc.jpg",
     "static/media/Box_Office.jpg": "/myportfolio/static/media/Box_Office.01ce2498b0e1b8655301.jpg",
     "static/media/Chat_app.jpg": "/myportfolio/static/media/Chat_app.278c14eae44d1468bbd1.jpg",
-    "static/media/Abhishek_Sharma_Web_Developer_CV.pdf": "/myportfolio/static/media/Abhishek_Sharma_Web_Developer_CV.9deec81bf42958a18a6c.pdf",
     "static/media/ToDo_List.png": "/myportfolio/static/media/ToDo_List.2e7aa294f7f9d09dd21e.png",
     "index.html": "/myportfolio/index.html",
     "main.eb9bf345.css.map": "/myportfolio/static/css/main.eb9bf345.css.map",
-    "main.70c1ea1b.js.map": "/myportfolio/static/js/main.70c1ea1b.js.map"
+    "main.be28c5b1.js.map": "/myportfolio/static/js/main.be28c5b1.js.map"
   },
   "entrypoints": [
     "static/css/main.eb9bf345.css",
-    "static/js/main.70c1ea1b.js"
+    "static/js/main.be28c5b1.js"
   ]
 }
